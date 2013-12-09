@@ -1,0 +1,5 @@
+p = 500;
+
+a = zeros(p,1);
+
+[s,f] = wavread('words/aw1.wav');
